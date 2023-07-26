@@ -1,0 +1,12 @@
+trees
+/*it store in accending order sort*/
+add(object)
+addAll(collection)
+remove(object)
+clear()
+size()
+contains()
+first()
+last()
+
+

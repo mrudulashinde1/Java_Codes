@@ -1,0 +1,10 @@
+hashset
+\*it store randamly elements.
+  does not store repeat elaments.*/
+add(object)
+addAll(collection)
+remove(object)
+clear()
+size()
+indexOf(object)
+
